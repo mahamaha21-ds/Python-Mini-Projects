@@ -1,0 +1,25 @@
+user entered:4
+a = 90
+b = 9
+result:('Division:', 10.0)
+____________________________
+user entered:3
+a = 77
+b = 88
+result:('Multiplication:', 6776)
+____________________________
+user entered:1
+a = 670
+b = 356
+result:('Addition:', 1026)
+____________________________
+user entered:2
+a = 890
+b = 457
+result:('Subtraction:', 433)
+____________________________
+user entered:4
+a = 64780
+b = 67593
+result:('Division:', 0.9583832645392274)
+____________________________
